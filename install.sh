@@ -1,5 +1,5 @@
 #!/bin/bash
-apt-add-repository -y ppa:fengestad/stable
+
 apt-get -y update
 apt-get -y install fs-uae
 apt-get -y install fs-uae-launcher
