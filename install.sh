@@ -1,6 +1,5 @@
 #!/bin/bash
 
-apt-get -y update
 apt-get -y install fs-uae
 apt-get -y install fs-uae-launcher
 apt-get -y install fs-uae-arcade
